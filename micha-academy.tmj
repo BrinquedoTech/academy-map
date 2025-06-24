@@ -555,7 +555,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"office.png"
+         "value":"micha-academy.png"
         }, 
         {
          "name":"mapName",
