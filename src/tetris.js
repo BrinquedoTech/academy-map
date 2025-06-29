@@ -109,11 +109,12 @@ function placeTetromino() {
       row--;
     }
   }
-  if(points > 0) {
+    if (points > 0) {
         levelUp("teste", points).catch((error) => {
-          console.error("Error leveling up:", error);
+            console.error("Error leveling up:", error);
         });
     }
+
   tetromino = getNextTetromino();
 }
 
@@ -293,5 +294,9 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
-// start the game
-rAF = requestAnimationFrame(loop);
+WA.onInit().then(() => {
+  // Aqui WA já está garantido
+
+  // Agora sim, pode começar o jogo
+  rAF = requestAnimationFrame(loop);
+});
