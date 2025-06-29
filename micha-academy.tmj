@@ -560,7 +560,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"OfficeWrong"
         }, 
         {
          "name":"script",
