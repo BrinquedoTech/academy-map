@@ -531,7 +531,55 @@
                  "width":152,
                  "x":512.5,
                  "y":567
-                }],
+                },
+                {
+      "id": 100,
+      "name": "PuzzleGame",
+      "type": "questIframe",
+      "x": 200,
+      "y": 200,
+      "width": 64,
+      "height": 64,
+      "rotation": 0,
+      "visible": true,
+      "properties": [
+        {
+          "name": "url",
+          "type": "string",
+          "value": "jogos-bqy.pages.dev"
+        },
+        {
+          "name": "questId",
+          "type": "string",
+          "value": "puzzleQuest"
+        },
+        {
+          "name": "questStepId",
+          "type": "string",
+          "value": "step0"
+        },
+        {
+          "name": "questStepId",
+          "type": "string",
+          "value": "step1"
+        },
+        {
+          "name": "questStepId",
+          "type": "string",
+          "value": "step2"
+        },
+        {
+          "name": "questStepId",
+          "type": "string",
+          "value": "step3"
+        },
+        {
+          "name": "questStepId",
+          "type": "string",
+          "value": "step4"
+        }
+      ]
+    }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -560,7 +608,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"OfficeWrong"
+         "value":"Office"
         }, 
         {
          "name":"script",
