@@ -531,55 +531,39 @@
                  "width":152,
                  "x":512.5,
                  "y":567
-                },
+                }, 
                 {
-      "id": 100,
-      "name": "PuzzleGame",
-      "type": "questIframe",
-      "x": 200,
-      "y": 200,
-      "width": 64,
-      "height": 64,
-      "rotation": 0,
-      "visible": true,
-      "properties": [
-        {
-          "name": "url",
-          "type": "string",
-          "value": "jogos-bqy.pages.dev"
-        },
-        {
-          "name": "questId",
-          "type": "string",
-          "value": "puzzleQuest"
-        },
-        {
-          "name": "questStepId",
-          "type": "string",
-          "value": "step0"
-        },
-        {
-          "name": "questStepId",
-          "type": "string",
-          "value": "step1"
-        },
-        {
-          "name": "questStepId",
-          "type": "string",
-          "value": "step2"
-        },
-        {
-          "name": "questStepId",
-          "type": "string",
-          "value": "step3"
-        },
-        {
-          "name": "questStepId",
-          "type": "string",
-          "value": "step4"
-        }
-      ]
-    }],
+                 "height":64,
+                 "id":100,
+                 "name":"PuzzleGame",
+                 "rotation":0,
+                 "type":"questIframe",
+                 "visible":true,
+                 "width":64,
+                 "x":447,
+                 "y":609,
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https://jogos-bqy.pages.dev"
+                        }, 
+                        {
+                         "name":"questId",
+                         "type":"string",
+                         "value":"puzzleQuest"
+                        }, 
+                        {
+                         "name":"questStepId",
+                         "type":"string",
+                         "value":"step0"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Jogar Puzzle"
+                        }]
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -616,7 +600,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.11.0",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
