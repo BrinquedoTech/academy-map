@@ -536,17 +536,11 @@
                  "height":64,
                  "id":100,
                  "name":"PuzzleGame",
-                 "rotation":0,
-                 "type":"questIframe",
-                 "visible":true,
-                 "width":64,
-                 "x":447,
-                 "y":609,
                  "properties":[
                         {
-                         "name":"url",
+                         "name":"label",
                          "type":"string",
-                         "value":"https://jogos-bqy.pages.dev"
+                         "value":"Jogar Puzzle"
                         }, 
                         {
                          "name":"questId",
@@ -559,10 +553,16 @@
                          "value":"step0"
                         }, 
                         {
-                         "name":"label",
+                         "name":"url",
                          "type":"string",
-                         "value":"Jogar Puzzle"
-                        }]
+                         "value":"https://portal.brinquedotech.com.br/games/puzzle/"
+                        }],
+                 "rotation":0,
+                 "type":"questIframe",
+                 "visible":true,
+                 "width":64,
+                 "x":512,
+                 "y":482
                 }],
          "opacity":1,
          "type":"objectgroup",
