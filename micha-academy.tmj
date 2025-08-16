@@ -503,7 +503,7 @@
                 {
                  "height":94,
                  "id":33,
-                 "name":"Sala de Conferencia",
+                 "name":"Ambiente de Conversa",
                  "properties":[
                         {
                          "name":"focusable",
@@ -538,6 +538,11 @@
                  "name":"Games",
                  "properties":[
                         {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Area de Jogos"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/portal.brinquedotech.com.br\/games"
@@ -553,6 +558,389 @@
                  "width":92.67,
                  "x":513.33,
                  "y":481.33
+                }, 
+                {
+                 "height":60.67,
+                 "id":42,
+                 "name":"PC1",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 1"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":768.331666666667,
+                 "y":96.9983333333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":43,
+                 "name":"PC2",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 2"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":769.331666666667,
+                 "y":192.998333333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":44,
+                 "name":"PC3",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 3"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":768.665,
+                 "y":288.998333333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":48,
+                 "name":"PC4",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 4"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":672.831666666667,
+                 "y":97.66515
+                }, 
+                {
+                 "height":60.67,
+                 "id":49,
+                 "name":"PC5",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 5"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":673.831666666667,
+                 "y":193.66485
+                }, 
+                {
+                 "height":60.67,
+                 "id":50,
+                 "name":"PC6",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 6"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":673.164666666667,
+                 "y":289.66485
+                }, 
+                {
+                 "height":60.67,
+                 "id":51,
+                 "name":"PC7",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 7"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":576.581666666667,
+                 "y":96.6649833333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":52,
+                 "name":"PC8",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 8"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":577.581666666667,
+                 "y":192.664683333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":53,
+                 "name":"PC9",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 9"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":576.914666666667,
+                 "y":288.664683333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":54,
+                 "name":"PC10",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 10"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":481.081666666667,
+                 "y":97.3318833333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":55,
+                 "name":"PC11",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 11"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":482.081666666667,
+                 "y":193.331683333333
+                }, 
+                {
+                 "height":60.67,
+                 "id":56,
+                 "name":"PC12",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Computador 12"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/portal.brinquedotech.com.br"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":62.67,
+                 "x":481.414666666667,
+                 "y":289.331683333333
+                }, 
+                {
+                 "height":288,
+                 "id":57,
+                 "name":"Sala de Aula",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"sala-de-aula"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"startMuted",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"startWithVideoMuted",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":545,
+                 "x":415.5,
+                 "y":94
+                }, 
+                {
+                 "height":63,
+                 "id":58,
+                 "name":"Start",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":289,
+                 "y":576.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -561,7 +949,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":41,
+ "nextobjectid":59,
  "orientation":"orthogonal",
  "properties":[
         {
