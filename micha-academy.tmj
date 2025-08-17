@@ -551,6 +551,11 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte \"Espa\u00e7o\" para abrir os Jogos"
                         }],
                  "rotation":0,
                  "type":"area",
